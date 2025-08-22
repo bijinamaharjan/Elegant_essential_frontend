@@ -1,0 +1,181 @@
+.heading-text-1 {
+  transition: all 0.6s ease; /* Add a transition for the transform property */
+  transform: translatey(-10%);
+  opacity: 0.1;
+}
+
+.heading-text-1-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.heading-text-11 {
+  transition: all 0.9s ease; /* Add a transition for the transform property */
+  transform: translatey(-10%);
+  opacity: 0.1;
+}
+
+.heading-text-11-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.heading-text-2 {
+  transition: all 0.6s ease; /* Add a transition for the transform property */
+  transform: translateX(-10%);
+  opacity: 0.1;
+}
+
+.heading-text-2-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.header-image-0 {
+  transition: all 1.5s ease; /* Add a transition for the transform property */
+  transform: translateX(-30%);
+  opacity: 0.1;
+}
+
+.header-image-0-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.header-image-1 {
+  transition: all 1.5s ease; /* Add a transition for the transform property */
+  transform: translateX(30%);
+  opacity: 0.1;
+}
+
+.header-image-1-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.header-image-2 {
+  transition: all 1.5s ease; /* Add a transition for the transform property */
+  transform: translateY(-30%);
+  opacity: 0.1;
+}
+
+.header-image-2-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.header-image-3 {
+  transition: all 0.5s ease; /* Add a transition for the transform property */
+  transform: translateY(30%);
+  opacity: 1;
+}
+
+.header-image-3-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.header-data {
+  transition: all 1s ease;
+  opacity: 0.1;
+  transform: scale(90%);
+}
+
+.header-data-active {
+  opacity: 1;
+  transform: scale(100%);
+}
+
+.block1 {
+  transition: all 1s ease;
+  transform: translateX(-20%);
+  opacity: 0.2;
+}
+
+.block1-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.block2 {
+  transition: all 2s ease;
+  transform: translateX(-30%);
+  opacity: 0.2;
+}
+
+.block2-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.block3 {
+  transition: all 3s ease;
+  transform: translateX(-40%);
+  opacity: 0.2;
+}
+
+.block3-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.block4 {
+  transition: all 4s ease;
+  transform: translateX(-50%);
+  opacity: 0.2;
+}
+
+.block4-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.header-box {
+  transition: all 1.5s ease; /* Add a transition for the transform property */
+  transform: rotate(90deg) translateX(30%);
+  opacity: 0.1;
+}
+
+.header-box-active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+/* home page */
+
+.header-image-first {
+  transition: all 1.5s ease;
+  transform: translateY(20%);
+  opacity: 1;
+}
+
+.header-image-first-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.header-image-second {
+  transition: all 1.5s ease;
+  transform: translateY(30%);
+  opacity: 1;
+}
+
+.header-image-second-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.header-image-third {
+  transition: all 1.5s ease;
+  transform: translateY(40%);
+  opacity: 1;
+}
+
+.header-image-third-active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.slick-slide {
+  padding: 10px 15px 10px 15px; /* Adjust the margin to set the gap */
+}

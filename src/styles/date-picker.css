@@ -1,0 +1,64 @@
+.css-1hbyad5-MuiTypography-root {
+  display: none;
+}
+
+/* calendar */
+.css-16b5y55-MuiPickersLayout-contentWrapper {
+  background-color: black;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  background-color: red;
+}
+
+.css-jgls56-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+  border: 2px solid #ff253a !important;
+}
+
+/* top */
+.css-4pax7l-MuiPickersLayout-root .MuiPickersLayout-toolbar {
+  display: none !important;
+  background-color: red;
+}
+
+/* action-bar */
+.css-4pax7l-MuiPickersLayout-root .MuiPickersLayout-actionBar {
+  display: none;
+}
+
+.css-jgls56-MuiButtonBase-root-MuiPickersDay-root {
+  color: white !important;
+}
+
+.css-jgls56-MuiButtonBase-root-MuiPickersDay-root.Mui-selected:hover {
+  will-change: background-color;
+  background-color: red !important;
+}
+
+.css-jgls56-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  color: #fff;
+  background-color: red !important;
+  font-weight: 500;
+}
+
+.css-1u23akw-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  color: #fff;
+  background-color: red !important;
+  font-weight: 500;
+}
+
+.css-1u23akw-MuiButtonBase-root-MuiPickersDay-root {
+  color: white !important;
+}
+
+.css-rhmlg1-MuiTypography-root-MuiDayCalendar-weekDayLabel {
+  color: white !important;
+}
+
+.css-1vooibu-MuiSvgIcon-root {
+  color: white !important;
+}
+
+.css-1vooibu-MuiSvgIcon-root {
+  color: white !important;
+}

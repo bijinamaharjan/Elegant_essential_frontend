@@ -1,0 +1,8 @@
+.custom-slider .rc-slider-track {
+  background-color: purple;
+}
+
+.custom-slider .rc-slider-handle {
+  border-color: violet;
+  background-color: purple;
+}

@@ -1,0 +1,16 @@
+.main-div {
+  position: relative;
+}
+
+.main-div::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://assets.thehansindia.com/h-upload/2022/08/02/1306020-makeup.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
